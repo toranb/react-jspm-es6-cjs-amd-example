@@ -1,6 +1,6 @@
 This example shows react / react-nested-router in action w/ help from jspm
 
-Watch the network tab to see the following when you click dashboard
+Watch the network tab to see the following when you click dashboard/then inbox
 
     jspm will load an ES6 module on demand app/dashboard
     jspm will then load a CJS module ajax-mixin
