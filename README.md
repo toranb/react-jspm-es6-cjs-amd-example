@@ -10,7 +10,7 @@ Watch the network tab to see the following when you click dashboard/then inbox
 
     npm install jspm
 
-    jspm install react=github:reactjs/react-bower -o "{main: 'react', format: 'global'}" -f
+    jspm install react=github:reactjs/react-bower@0.10.0 -o "{main: 'react', format: 'global'}" -f
     jspm install react-nested-router=github:toranb/toranb-react-nested-router
     jspm install ajax-mixin=github:toranb/toranb-react-cjs-rsvp-ajax-mixin
     jspm install rsvp=github:tildeio/rsvp.js@3.0.7 -o "{main: 'lib/rsvp.js'}"
