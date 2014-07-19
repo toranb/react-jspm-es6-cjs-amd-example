@@ -18,7 +18,7 @@ Watch the network tab to see the following when you click dashboard/then inbox
     cd jspm_packages/github/tildeio/rsvp.js@3.0.7
     mv rsvp.js rsvp.js.js
 
-    jspm bundle app/router
+    jspm bundle app/router build.js
 
     python -m SimpleHTTPServer 3000
 
